@@ -21,7 +21,6 @@
         <div class="row">
             <div class="col">
                 <h3>Admin Login Screen</h3>
-                <a class="btn btn-dark" href="{{ route('admin.attendanceReport') }}">test</a>
             </div>
         </div>
         <form action="{{ route('committee.create') }}" method="POST">
